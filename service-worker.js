@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/necoleapptest/precache-manifest.f193dda5e92a9e18f59f99579d6dcc7e.js"
+  "/necoleapptest/precache-manifest.573e6171db65fd922321d36b87515946.js"
 );
 
 self.addEventListener('message', (event) => {
